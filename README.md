@@ -1,8 +1,9 @@
-<a  href="https://www.twilio.com">
-<img  src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg"  alt="Twilio"  width="250"  />
-</a>
- 
 # Bot Covid
+
+<div align="center">
+ <img  src="https://user-images.githubusercontent.com/56304060/116772748-90f48300-aa6e-11eb-8c9d-920d16f07132.jpg"  alt="Twilio"  width="250"  />
+</div>
+
 
 ## About
 
