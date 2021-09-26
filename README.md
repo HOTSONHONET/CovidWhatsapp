@@ -1,7 +1,7 @@
 # Bot Covid
 
 <div align="center">
- <img  src="https://user-images.githubusercontent.com/56304060/116772748-90f48300-aa6e-11eb-8c9d-920d16f07132.jpg"  alt="Twilio"  width="250"  />
+ <img  src="https://user-images.githubusercontent.com/56304060/116772748-90f48300-aa6e-11eb-8c9d-920d16f07132.jpg"  alt="Twilio"  width="500"  height="350"/>
 </div>
 
 
